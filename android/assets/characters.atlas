@@ -1,0 +1,1320 @@
+characters.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ghost_lord
+  rotate: false
+  xy: 346, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+red_mage
+  rotate: false
+  xy: 194, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+hero
+  rotate: false
+  xy: 460, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 1
+ghost_guard
+  rotate: false
+  xy: 42, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_m
+  rotate: false
+  xy: 42, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_lord
+  rotate: false
+  xy: 384, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+senior_mage
+  rotate: false
+  xy: 232, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+senior_guard
+  rotate: false
+  xy: 270, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+dragon_l
+  rotate: false
+  xy: 270, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shield_3x
+  rotate: false
+  xy: 4, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+senior_mage
+  rotate: false
+  xy: 194, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_guard
+  rotate: false
+  xy: 4, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sword_5x
+  rotate: false
+  xy: 422, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_m
+  rotate: false
+  xy: 80, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+senior_guard
+  rotate: false
+  xy: 308, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+levelup3
+  rotate: false
+  xy: 4, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_l
+  rotate: false
+  xy: 308, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+levelup3
+  rotate: false
+  xy: 460, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_rt
+  rotate: false
+  xy: 270, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+red_slime
+  rotate: false
+  xy: 4, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+hero_up
+  rotate: false
+  xy: 118, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 1
+hero_up
+  rotate: false
+  xy: 42, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 4
+squid_rt
+  rotate: false
+  xy: 308, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+hero_up
+  rotate: false
+  xy: 80, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 2
+hero_up
+  rotate: false
+  xy: 118, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 3
+red_slime
+  rotate: false
+  xy: 42, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_b
+  rotate: false
+  xy: 346, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+junior_mage
+  rotate: false
+  xy: 270, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_b
+  rotate: false
+  xy: 384, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+junior_mage
+  rotate: false
+  xy: 232, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+golem
+  rotate: false
+  xy: 460, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+potion_blood
+  rotate: false
+  xy: 460, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+note
+  rotate: false
+  xy: 194, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+golem
+  rotate: false
+  xy: 4, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+squid_rb
+  rotate: false
+  xy: 346, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+magma
+  rotate: false
+  xy: 308, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_rb
+  rotate: false
+  xy: 384, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ghost_warrior
+  rotate: false
+  xy: 194, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_warrior
+  rotate: false
+  xy: 232, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+magma
+  rotate: false
+  xy: 346, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sword_2x
+  rotate: false
+  xy: 42, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+door_r
+  rotate: false
+  xy: 194, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+door_r
+  rotate: false
+  xy: 156, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+door_r
+  rotate: false
+  xy: 118, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+orcish
+  rotate: false
+  xy: 118, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+orcish
+  rotate: false
+  xy: 156, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+shop
+  rotate: false
+  xy: 346, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+door_r
+  rotate: false
+  xy: 232, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+door_y
+  rotate: false
+  xy: 42, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shop
+  rotate: false
+  xy: 384, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+vampire_bat
+  rotate: false
+  xy: 118, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+potion_mana
+  rotate: false
+  xy: 384, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+barrier
+  rotate: false
+  xy: 422, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+door_y
+  rotate: false
+  xy: 4, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+door_y
+  rotate: false
+  xy: 460, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+barrier
+  rotate: false
+  xy: 308, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+barrier
+  rotate: false
+  xy: 384, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+red_lord
+  rotate: false
+  xy: 232, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sword_1x
+  rotate: false
+  xy: 80, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+white_knight
+  rotate: false
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+barrier
+  rotate: false
+  xy: 346, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+door_y
+  rotate: false
+  xy: 80, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+vampire_bat
+  rotate: false
+  xy: 156, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+gem_defence
+  rotate: false
+  xy: 156, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+green_slime
+  rotate: false
+  xy: 384, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+red_lord
+  rotate: false
+  xy: 270, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sceptre_y
+  rotate: false
+  xy: 346, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+green_slime
+  rotate: false
+  xy: 422, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+slime_boss
+  rotate: false
+  xy: 460, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+white_knight
+  rotate: false
+  xy: 42, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+key_a
+  rotate: false
+  xy: 194, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+key_b
+  rotate: false
+  xy: 156, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+junior_guard
+  rotate: false
+  xy: 308, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+upstair
+  rotate: false
+  xy: 194, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sceptre_r
+  rotate: false
+  xy: 384, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sword_4x
+  rotate: false
+  xy: 460, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+slime_boss
+  rotate: false
+  xy: 4, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+monster_king
+  rotate: false
+  xy: 232, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+junior_guard
+  rotate: false
+  xy: 346, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+orcish_knight
+  rotate: false
+  xy: 42, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+orcish_knight
+  rotate: false
+  xy: 80, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+thief
+  rotate: false
+  xy: 270, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_mage
+  rotate: false
+  xy: 270, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shop_right
+  rotate: false
+  xy: 270, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 118, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+monster_king
+  rotate: false
+  xy: 270, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+key_r
+  rotate: false
+  xy: 118, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_lb
+  rotate: false
+  xy: 194, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_mage
+  rotate: false
+  xy: 308, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+sceptre_b
+  rotate: false
+  xy: 422, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sword_3x
+  rotate: false
+  xy: 4, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 156, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+thief
+  rotate: false
+  xy: 308, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_lb
+  rotate: false
+  xy: 232, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+golden_guard
+  rotate: false
+  xy: 42, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+key_y
+  rotate: false
+  xy: 80, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+squid_l
+  rotate: false
+  xy: 232, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_m
+  rotate: false
+  xy: 4, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_l
+  rotate: false
+  xy: 270, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+squid_m
+  rotate: false
+  xy: 42, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+golden_guard
+  rotate: false
+  xy: 80, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ghost_captain
+  rotate: false
+  xy: 80, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+potion_blood_l
+  rotate: false
+  xy: 422, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shop_left
+  rotate: false
+  xy: 308, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+road
+  rotate: false
+  xy: 460, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_t
+  rotate: false
+  xy: 232, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+dragon_r
+  rotate: false
+  xy: 460, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+skeleton_warrior
+  rotate: false
+  xy: 80, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+cross
+  rotate: false
+  xy: 80, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+skeleton_warrior
+  rotate: false
+  xy: 42, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_captain
+  rotate: false
+  xy: 118, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+linen_mage
+  rotate: false
+  xy: 422, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+linen_mage
+  rotate: false
+  xy: 384, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+hero_left
+  rotate: false
+  xy: 308, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 2
+dragon_t
+  rotate: false
+  xy: 270, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+hero_left
+  rotate: false
+  xy: 270, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 4
+dragon_r
+  rotate: false
+  xy: 4, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+hero_left
+  rotate: false
+  xy: 346, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 3
+dragon_lt
+  rotate: false
+  xy: 118, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+dragon_lt
+  rotate: false
+  xy: 156, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+hero_left
+  rotate: false
+  xy: 346, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 1
+squid_b
+  rotate: false
+  xy: 308, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+princess
+  rotate: false
+  xy: 308, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+princess
+  rotate: false
+  xy: 346, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+squid_b
+  rotate: false
+  xy: 346, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+downstair
+  rotate: false
+  xy: 422, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+door_b
+  rotate: false
+  xy: 4, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+door_b
+  rotate: false
+  xy: 460, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+door_b
+  rotate: false
+  xy: 422, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+golden_captain
+  rotate: false
+  xy: 118, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+door_b
+  rotate: false
+  xy: 42, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+golden_captain
+  rotate: false
+  xy: 156, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+coin
+  rotate: false
+  xy: 118, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+door_g
+  rotate: false
+  xy: 346, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shield_5x
+  rotate: false
+  xy: 422, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+door_g
+  rotate: false
+  xy: 308, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+door_g
+  rotate: false
+  xy: 270, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+hero_right
+  rotate: false
+  xy: 232, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 1
+hero_down
+  rotate: false
+  xy: 384, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 1
+door_g
+  rotate: false
+  xy: 384, 422
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ghost_knight
+  rotate: false
+  xy: 422, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+hero_down
+  rotate: false
+  xy: 422, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 4
+hero_right
+  rotate: false
+  xy: 156, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 4
+hero_down
+  rotate: false
+  xy: 460, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 2
+hero_right
+  rotate: false
+  xy: 194, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 2
+dragon_rb
+  rotate: false
+  xy: 384, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+hero_down
+  rotate: false
+  xy: 384, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 3
+hero_right
+  rotate: false
+  xy: 232, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 3
+dragon_rb
+  rotate: false
+  xy: 422, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+wall
+  rotate: false
+  xy: 80, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ghost_knight
+  rotate: false
+  xy: 460, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+transfer
+  rotate: false
+  xy: 232, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+levelup1
+  rotate: false
+  xy: 42, 270
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+skeletal_captain
+  rotate: false
+  xy: 232, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+skeleton
+  rotate: false
+  xy: 118, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_lt
+  rotate: false
+  xy: 80, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+sword_knight
+  rotate: false
+  xy: 384, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+pickaxe
+  rotate: false
+  xy: 4, 232
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sword_knight
+  rotate: false
+  xy: 346, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+skeletal_captain
+  rotate: false
+  xy: 194, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+blue_merchant
+  rotate: false
+  xy: 156, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shadow_warrior
+  rotate: false
+  xy: 118, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_lt
+  rotate: false
+  xy: 118, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+red_merchant
+  rotate: false
+  xy: 80, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+big_bat
+  rotate: false
+  xy: 270, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+skeleton
+  rotate: false
+  xy: 156, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+small_bat
+  rotate: false
+  xy: 384, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+shadow_warrior
+  rotate: false
+  xy: 156, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+big_bat
+  rotate: false
+  xy: 232, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+dragon_rt
+  rotate: false
+  xy: 308, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+blue_merchant
+  rotate: false
+  xy: 194, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+dragon_rt
+  rotate: false
+  xy: 346, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+red_merchant
+  rotate: false
+  xy: 118, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+small_bat
+  rotate: false
+  xy: 422, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+shield_2x
+  rotate: false
+  xy: 42, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shield_1x
+  rotate: false
+  xy: 80, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+squid_t
+  rotate: false
+  xy: 194, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_lb
+  rotate: false
+  xy: 156, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+angel
+  rotate: false
+  xy: 4, 498
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+angel
+  rotate: false
+  xy: 460, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+squid_t
+  rotate: false
+  xy: 232, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+squid_lb
+  rotate: false
+  xy: 194, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+squid_r
+  rotate: false
+  xy: 422, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+gem_attack
+  rotate: false
+  xy: 194, 346
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+squid_r
+  rotate: false
+  xy: 460, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+shield_4x
+  rotate: false
+  xy: 460, 118
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 422, 498
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: 2
+red_mage
+  rotate: false
+  xy: 156, 194
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
